@@ -18,7 +18,10 @@
 
 ### My Projects : 
 1. [Document Extraction](https://github.com/mallapraveen/Document-Extraction)
-2. [Wild Fire Prediction](https://github.com/mallapraveen/WildFirePrediction_7Strangers)
+2. [Signature Matching](https://github.com/mallapraveen/Signature-Matching)
+3. [Wild Fire Prediction](https://github.com/mallapraveen/WildFirePrediction_7Strangers)
+4. [Foundations of DS and Deep Learning Course by PadhAI](https://github.com/mallapraveen/PadhAI)
+5. [Natural-Language-Processing-Specialization](https://github.com/mallapraveen/Natural-Language-Processing-Specialization)
 
 
 
