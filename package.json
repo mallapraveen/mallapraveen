@@ -1,0 +1,24 @@
+{
+  "name": "mallapraveen",
+  "version": "1.0.0",
+  "description": "personal profile",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mallapraveen/mallapraveen.git"
+  },
+  "author": "mallapraveen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mallapraveen/mallapraveen/issues"
+  },
+  "homepage": "https://github.com/mallapraveen/mallapraveen#readme",
+  "dependencies": {
+    "mustache": "^4.1.0",
+    "node-fetch": "^2.6.1",
+    "puppeteer": "^8.0.0"
+  }
+}
