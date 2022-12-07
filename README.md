@@ -17,11 +17,12 @@
 
 
 ### My Projects : 
-1. [Document Extractor](https://github.com/mallapraveen/Document-Extractor)
-2. [Signature Matching](https://github.com/mallapraveen/Signature-Matching)
-3. [Wild Fire Prediction](https://github.com/mallapraveen/WildFirePrediction_7Strangers)
-4. [Foundations of DS and Deep Learning Course by PadhAI](https://github.com/mallapraveen/PadhAI)
-5. [Natural-Language-Processing-Specialization by Coursera](https://github.com/mallapraveen/Natural-Language-Processing-Specialization)
+1. [English - Indic - English Transliteration]([https://github.com/mallapraveen/Document-Extractor](https://github.com/mallapraveen/English-Indic-English-Transliteration))
+2. [Document Extractor](https://github.com/mallapraveen/Document-Extractor)
+3. [Signature Matching](https://github.com/mallapraveen/Signature-Matching)
+4. [Wild Fire Prediction](https://github.com/mallapraveen/WildFirePrediction_7Strangers)
+5. [Foundations of DS and Deep Learning Course by PadhAI](https://github.com/mallapraveen/PadhAI)
+6. [Natural-Language-Processing-Specialization by Coursera](https://github.com/mallapraveen/Natural-Language-Processing-Specialization)
 
 
 
