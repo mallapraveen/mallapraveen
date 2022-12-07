@@ -17,7 +17,7 @@
 
 
 ### My Projects : 
-1. [English - Indic - English Transliteration]([https://github.com/mallapraveen/Document-Extractor](https://github.com/mallapraveen/English-Indic-English-Transliteration))
+1. [English - Indic - English Transliteration](https://github.com/mallapraveen/English-Indic-English-Transliteration))
 2. [Document Extractor](https://github.com/mallapraveen/Document-Extractor)
 3. [Signature Matching](https://github.com/mallapraveen/Signature-Matching)
 4. [Wild Fire Prediction](https://github.com/mallapraveen/WildFirePrediction_7Strangers)
