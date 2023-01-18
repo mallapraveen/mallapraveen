@@ -42,3 +42,20 @@
 [linkedin]: https://www.linkedin.com/in/mallapraveen
 [twitter]: https://www.twitter.com/Malla_Praveen
 [Instagram]: https://www.instagram.com/mallapraveen
+
+
+</p>
+  <p align="center"> 
+  <b>Visitor count</b><br>
+  <img src="https://profile-counter.glitch.me/mallapraveen/count.svg" />
+     
+</p>
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/mallapraveen">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mallapraveen&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mallapraveen&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
